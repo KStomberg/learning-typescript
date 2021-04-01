@@ -70,6 +70,7 @@
   },
   "exclude": [ /* Removed previously made ts files from s2 */
     "node-modules",
-    "section-2-project-files/*.ts"
+    "section-2-project-files/*.ts",
+    "section-5-project-files/*.ts"
   ]
 }
